@@ -1,3 +1,5 @@
+注：此处的官方指 https://github.com/Taromati2 所维护或提供的版本  
+原作者所提供的版本详见[永遠に未完成]( http://unvollendet.web.fc2.com/)  
 ### 官方源  
 ```
 #github源，正品保证（？
