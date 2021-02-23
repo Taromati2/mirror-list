@@ -10,4 +10,9 @@ https://e-tek.coding.net/p/Taromati2/d/stable-mirror/git/raw/master/Taromati2/
 https://gitee.com/Taromati2/stable-mirror/raw/master/Taromati2/
 ```
 ### 非官方源  
-暂无  
+注意：并不是所有源提供的版本都提供换源功能，在切换至其他源所提供的版本后，你可能无法切换回来  
+二度注意：不同版本间的人格记忆格式可能不同，人格可能失忆或出错  
+```
+#萌动精灵源（http://moeghost.cn/），fancyang佬的版本
+http://app4try.com/taromati/plugins
+```
