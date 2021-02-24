@@ -1,5 +1,8 @@
 注：此处的官方指 https://github.com/Taromati2 所维护或提供的版本  
 原作者所提供的版本详见[永遠に未完成]( http://unvollendet.web.fc2.com/)  
+### 使用方法  
+双击kikka打开菜单，在设定页->帮助->修改更新源处使用  
+还没有安装Taromati2？[点击这里]( https://github.com/Taromati2/Taromati2/releases/latest )
 ### 官方源  
 ```
 #github源，正品保证（？
