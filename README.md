@@ -17,7 +17,8 @@ https://raw.githubusercontent.com/Taromati2/stable-mirror/master/Taromati2/
 <summary>想使用github源但无法访问？这里有一些代理链接</summary>
 
 #### github源但是使用jsdelivr代理  
-可以试试看，效果我不知道  
+目前的默认源，全球（包括国内）可访问，速度较快，不定时与github源同步  
+缺点是不能及时获取更新  
 [点此快速切换]( https://steve02081504.github.io/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DTaromati2%26info%3DMirrorChange%3Ahttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaromati2%2Fstable-mirror%40master%2FTaromati2%2F )
 ```
 https://cdn.jsdelivr.net/gh/Taromati2/stable-mirror@master/Taromati2/
