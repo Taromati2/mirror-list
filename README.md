@@ -38,8 +38,8 @@ https://raw.staticdn.net/Taromati2/stable-mirror/master/Taromati2/
 
 </details>
 
-#### E-tek.coding源  
-host on 阿里云，每日凌晨4点与github源同步  
+#### E-tek.coding源（已弃用）  
+host on 阿里云，同步情况随机  
 国内稳定链接，缺点是不能及时获取更新  
 [点此快速切换]( https://steve02081504.github.io/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DTaromati2%26info%3DMirrorChange%3Ahttps%3A%2F%2Fe-tek.coding.net%2Fp%2FTaromati2%2Fd%2Fstable-mirror%2Fgit%2Fraw%2Fmaster%2FTaromati2%2F )
 ```
