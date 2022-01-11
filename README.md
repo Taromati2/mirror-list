@@ -8,7 +8,7 @@
 
 #### github源  
 正品保证（？  
-缺点在于国内有的地区无法链接  
+目前的默认源，缺点在于国内有的地区无法链接  
 [点此快速切换]( https://steve02081504.github.io/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DTaromati2%26info%3DMirrorChange%3Ahttps%3A%2F%2Fraw.githubusercontent.com%2FTaromati2%2Fstable-mirror%2Fmaster%2FTaromati2%2F )
 ```
 https://raw.githubusercontent.com/Taromati2/stable-mirror/master/Taromati2/
@@ -16,12 +16,12 @@ https://raw.githubusercontent.com/Taromati2/stable-mirror/master/Taromati2/
 <details>
 <summary>想使用github源但无法访问？这里有一些代理链接</summary>
 
-#### github源但是使用jsdelivr代理  
-目前的默认源，全球（包括国内）可访问，速度较快，不定时与github源同步  
-缺点是不能及时获取更新  
-[点此快速切换]( https://steve02081504.github.io/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DTaromati2%26info%3DMirrorChange%3Ahttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaromati2%2Fstable-mirror%40master%2FTaromati2%2F )
+
+#### github源但是使用staticdn代理  
+可以试试看，效果我不知道  
+[点此快速切换]( https://steve02081504.github.io/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DTaromati2%26info%3DMirrorChange%3Ahttps%3A%2F%2Fraw.staticdn.net%2FTaromati2%2Fstable-mirror%2Fmaster%2FTaromati2%2F )
 ```
-https://cdn.jsdelivr.net/gh/Taromati2/stable-mirror@master/Taromati2/
+https://raw.staticdn.net/Taromati2/stable-mirror/master/Taromati2/
 ```
 #### github源但是使用fastgit代理  
 可以试试看，效果我不知道  
@@ -29,11 +29,12 @@ https://cdn.jsdelivr.net/gh/Taromati2/stable-mirror@master/Taromati2/
 ```
 https://raw.fastgit.org/Taromati2/stable-mirror/master/Taromati2/
 ```
-#### github源但是使用staticdn代理  
-可以试试看，效果我不知道  
-[点此快速切换]( https://steve02081504.github.io/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DTaromati2%26info%3DMirrorChange%3Ahttps%3A%2F%2Fraw.staticdn.net%2FTaromati2%2Fstable-mirror%2Fmaster%2FTaromati2%2F )
+#### github源但是使用jsdelivr代理（已弃用）  
+全球（包括国内）可访问，速度较快，不定时与github源同步  
+缺点是不能及时获取更新，以及exe、vbs等类型的文件会更新出错  
+[点此快速切换]( https://steve02081504.github.io/jump.html?url=x-ukagaka-link%3Atype%3Devent%26ghost%3DTaromati2%26info%3DMirrorChange%3Ahttps%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FTaromati2%2Fstable-mirror%40master%2FTaromati2%2F )
 ```
-https://raw.staticdn.net/Taromati2/stable-mirror/master/Taromati2/
+https://cdn.jsdelivr.net/gh/Taromati2/stable-mirror@master/Taromati2/
 ```
 
 </details>
